@@ -62,6 +62,7 @@ namespace Linq_03_UsingCollections
                 Console.WriteLine("---------------------------");
             }
 
+
             Console.WriteLine("Данные были выгружены успешно!\nИ да этот метод возвращает тип Array");
             return DB.Areas.ToArray();
         }
