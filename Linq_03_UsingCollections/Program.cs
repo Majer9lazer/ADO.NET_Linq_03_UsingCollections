@@ -1,11 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.Entity;
 using System.Diagnostics;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 using Linq_03_UsingCollections.BestNameSpace;
 using Linq_03_UsingCollections.Model;
 
@@ -139,7 +135,6 @@ namespace Linq_03_UsingCollections
             }
         }
     }
-
     namespace BestNameSpace
     {
         struct BestStruct
@@ -343,6 +338,4 @@ namespace Linq_03_UsingCollections
             }
         }
     }
-
-
 }
